@@ -1,0 +1,58 @@
+ 
+ 
+1
+body{
+2
+ background: -webkit-linear-gradient(#E55D87,#E7E9BB);
+3
+}
+4
+h4{
+5
+  font-style:italic;
+6
+  }
+7
+.img-responsive{
+8
+  width:700px;
+9
+  max-height:400px;
+10
+  margin:0 auto;
+11
+  border-radius:20px;  
+12
+  
+13
+}
+14
+.t{
+15
+ position:relative;
+16
+ left:115px;
+17
+ font-weight:bold;
+18
+ }
+19
+div{
+20
+  font-style:normal;
+21
+  font-family:arial, Georgia, Serif;
+22
+  color:#000;
+23
+  font-size:22px;
+24
+  text-align:justify;
+25
+}
+26
+.img2{
+27
+  width:100%;
+28
+}
